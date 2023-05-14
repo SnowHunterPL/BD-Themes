@@ -1,0 +1,38 @@
+/**
+ * @name New Good Stuff
+ * @version 8.0
+ * @description A simple but highly customizable theme, now sugar free!
+ * @author Spectra
+ * @invite PZdnCVD
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ * @BDEditor Neutron
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+
+:root {
+  --backgroundImage: url('https://i.imgur.com/6pXmYxm.jpg');
+  --backgroundColor: #0d0d0d;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 0px;
+  --backgroundOpacity: 0.65;
+  --homeImage: url('https://i.imgur.com/T0nJTFL.png');
+  --homeImageSize: cover;
+  --themeColor1: #890101;
+  --themeColor2: #FF0000;
+  --customFont: Open Sans;
+  --backgroundCode: rgba(0 0 0 /.5);
+  --backgroundName: rgba(0 0 0 /.5);
+  --columns: 2;
+  --guildgap: 3;
+  --aligndms: 0;
+}
+
+/* Any custom CSS below here */
+
+
